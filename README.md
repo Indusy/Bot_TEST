@@ -1,3 +1,3 @@
-# Img_bot
+# Rubbish_bot
 
-Telegram 图片bot，菜作，练手
+Telegram 垃圾bot，菜作，练手
